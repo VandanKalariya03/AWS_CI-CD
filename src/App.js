@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          vandan kalariya
+          vandan
         </a>
       </header>
     </div>
